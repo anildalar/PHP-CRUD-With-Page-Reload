@@ -1,0 +1,21 @@
+CRUD = 
+
+CRUD RELOAD
+
+C = Create (INSERT INTO)
+R = Read   (SELECT)
+U = Update  (UPDATE)
+D = Delete  (DELETE)
+
+
+CRUD WITHOUT RELOAD (AJAX)
+
+C = Create (INSERT INTO)
+R = Read   (SELECT)
+U = Update  (UPDATE)
+D = Delete  (DELETE)
+
+
+https://www.w3schools.com/php/func_mysqli_num_rows.asp
+
+https://www.w3schools.com/php/func_mysqli_fetch_array.asp
